@@ -7,8 +7,3 @@
 - My favorite TV show is "Miraculous: Tales Of Ladybug & Cat Noir".
 - My favorite animated film is Disney's "Encanto".
 - At last, learn to dance in the rain, instead of waiting for the storm to pass. :-)
-
-
-<div id="header" align="center">
-  <img src="https://tilt.goombastomp.com/wp-content/uploads/2021/11/Encanto-1000x563.jpeg" width="100"/>
-</div>
