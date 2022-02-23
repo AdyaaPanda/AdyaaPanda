@@ -6,4 +6,4 @@
 - My hobbies include drawing caricatures/cartoons, dancing, reading stories, and writing poems.
 - My favorite TV show is "Miraculous: Tales Of Ladybug & Cat Noir".
 - My favorite animated film is Disney's "Encanto".
-- At last, learn to dance in the rain, instead of waiting for the storm to pass. :)
+- At last, learn to dance in the rain, instead of waiting for the storm to pass. :-)
