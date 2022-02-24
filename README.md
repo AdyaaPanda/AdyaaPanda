@@ -1,5 +1,5 @@
-- # Hi There! 👋
-- I'm Adyaa Aradhana Panda, a 7th grade student.
+- # Bonjour! 👋
+- I am Adyaa Aradhana Panda, a 7th grade student.
 - I live in Odisha, India.
 - I'd like to enter Civil Service in future.
 - I'm currently working on HTML & CSS.
