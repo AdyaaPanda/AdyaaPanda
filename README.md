@@ -1,7 +1,7 @@
 - # Hi There! 👋
 - I'm Adyaa Aradhana Panda, a 7th grade student.
 - I live in Odisha, India.
-- I'd like to enter to enter Civil Service in future.
+- I'd like to enter Civil Service in future.
 - I'm currently working on HTML & CSS.
 - My hobbies include drawing caricatures/cartoons, dancing, reading stories, and writing poems.
 - My favorite TV show is "Miraculous: Tales Of Ladybug & Cat Noir".
